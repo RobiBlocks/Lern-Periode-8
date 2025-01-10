@@ -11,7 +11,7 @@
 - [ ] Ich mache einen Einstieg in php
 - [ ] Ich installiere xampp und die nötigen VSCode Addons
 
-✍️ Heute habe ich mir Ideen überlegt, was ich in dieser LP machen kann. Zuerst wollte ich mir die Sprache TypeScript beibringen. Nach einem Gespräch mit Herrn Colic kam heraus, dass es für meine ZWecke gescheitert ist php zu erlernen. Anschliessend habe ich ein Tutorial gesucht und damit begonnen. Als erstes habe ich xampp und die nötigen Addons für VSCode installiert. (Tutorial: https://www.youtube.com/watch?v=zZ6vybT1HQs&t=664s&ab_channel=BroCode)
+✍️ Heute habe ich mir Ideen überlegt, was ich in dieser LP machen kann. Zuerst wollte ich mir die Sprache TypeScript beibringen. Nach einem Gespräch mit Herrn Colic kam heraus, dass es für meine ZWecke gescheitert ist php zu erlernen. Anschliessend habe ich ein Tutorial gesucht und damit begonnen. Als erstes habe ich xampp und die nötigen Addons für VSCode installiert. (Tutorial: https://youtu.be/zZ6vybT1HQs?si=anzAZSapzyoMXJDY)
 
 ## 17.1
 
