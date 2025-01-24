@@ -1,4 +1,4 @@
-m # Lern-Periode 8
+# Lern-Periode 8
 10.01 bis 31.01
 
 ## Grob-Planung
@@ -24,8 +24,8 @@ m # Lern-Periode 8
 
 ## 24.1
 
-- [ ] Ich schaue Kapitel 14 bis Kapitel 17: radio buttons, checkboxes, functions und string functions
-- [ ] Ich schaue Kapitel 18 bis Kapitel 20: validate input, include() und _COOKIE
+- [x] Ich schaue Kapitel 14 bis Kapitel 17: radio buttons, checkboxes, functions und string functions
+- [x] Ich schaue Kapitel 18 bis Kapitel 20: validate input, include() und _COOKIE
 - [ ] Ich schaue Kapiel 21 bis Kapitel 23: _SESSION, _SERVER und password hashing
 - [ ] Ich schaue Kapitel 24 bis Kapitel 28: Connect PHP with MySQL
 
