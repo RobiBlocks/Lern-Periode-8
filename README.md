@@ -24,9 +24,18 @@
 
 ## 24.1
 
-- [x] Ich schaue Kapitel 14 bis Kapitel 17: radio buttons, checkboxes, functions und string functions
-- [x] Ich schaue Kapitel 18 bis Kapitel 20: validate input, include() und _COOKIE
-- [ ] Ich schaue Kapiel 21 bis Kapitel 23: _SESSION, _SERVER und password hashing
-- [ ] Ich schaue Kapitel 24 bis Kapitel 28: Connect PHP with MySQL
+- [x] Ich schaue Kapitel 14 bis Kapitel 17: radio buttons, checkboxes, functions und string functions und implementiere sie in mein Projekt.
+- [x] Ich schaue Kapitel 18 bis Kapitel 20: validate input, include() und _COOKIE und implementiere sie in mein Projekt.
+- [ ] Ich schaue Kapiel 21 bis Kapitel 23: _SESSION, _SERVER und password hashing und implementiere sie in mein Projekt.
+- [ ] Ich schaue Kapitel 24 bis Kapitel 28: Connect PHP with MySQL und implementiere sie in mein Projekt.
+
+✍️ Heute habe ich mir angeschaut, wie ich mit radio buttons und checkboxes interagiere. Anschliessend habe ich gelernt wie die Syntax der Funktionen in PHP funktioniert und verschiedene string Funktionen kennengelernt. Danach habe ich mit beigebracht wie man Input sanieren und validieren kann. Im Anschluss habe ich geschaut wie die Funktion include() verwendet werden kann. Nachdem ich gesehen habe wie man Cookies in PHP definieren kann habe ich mir noch angeschaut wie man Session erstellen und beenden kann. (77 Wörter)
+
+## 31.1
+
+- [ ] Ich schaue Kapiel 22 und 23: _SERVER und password hashing und implementiere sie in mein Projekt.
+- [ ] Ich schaue Kapitel 24 und 25: Connect to MySQL database, PHPMyAdmin create a table und implementiere sie in mein Projekt.
+- [ ] Ich schaue Kapitel 26 und 27: PHP insert into MySQL database, PHP query MySQL database und implementiere sie in mein Projekt.
+- [ ] Ich schaue Kapitel 28: PHP registration form project und implementiere sie in mein Projekt.
 
 ✍️ Heute habe ich...
