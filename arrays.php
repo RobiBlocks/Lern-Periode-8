@@ -1,3 +1,6 @@
+<?php
+include("header.html");
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -24,15 +27,17 @@ array_pop($colours);
 echo "<strong>The colours: </strong>";
 echo count($colours);
 echo "<br>";
-foreach($colours as $colour){
+foreach ($colours as $colour) {
     echo "{$colour}<br>";
 }
 echo "<br>";
 
 //associative array
-$jedis = array("Anakin"=>"blau",
-               "Yoda"=>"grün",
-               "Mace"=>"violett");
+$jedis = array(
+    "Anakin" => "blau",
+    "Yoda" => "grün",
+    "Mace" => "violett"
+);
 
 $jedis["Mace"] = "pink";
 $jedis["Ashoka"] = "gelb";
@@ -47,25 +52,23 @@ $lightsaberColours = array_flip($jedis);
 echo "<strong>The colours: </strong>";
 echo count($jedis);
 echo "<br>";
-foreach($lightsaberColours as $lightsaberColour => $name){
+foreach ($lightsaberColours as $lightsaberColour => $name) {
     echo "{$name} hat ein {$lightsaberColour}es Lichtschwert.<br>";
 }
 echo "<br>";
 
 // isset(), empty()
 $name1 = "RobiBlocks";
-if(isset($name1)){
+if (isset($name1)) {
     echo "You've already set your username to \"{$name1}\".<br>";
-}
-else{
+} else {
     echo "You haven't yet set a username.<br>";
 }
 
 $name2 = "";
-if(empty($name2)){
+if (empty($name2)) {
     echo "You haven't yet set a username.<br>";
-}
-else{
+} else {
     echo "You've already set your username to {$name2}.<br>";
 }
 ?>
