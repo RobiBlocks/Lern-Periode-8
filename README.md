@@ -3,7 +3,9 @@
 
 ## Fertiges Projekt
 
-![Artefakt_31012025.gif]
+Auf meiner Webseite kann man sehen, was ich in den letzten vier Wochen in der Sprache PHP gelernt habe. Es gibt eine login Seite, die das Login überprüft. Es funktioniert nur das Passwort 'doggy123'. Nach einem erfolgreichen Login gelangt man auf die eigentliche Webseite. Es gibt eine einfache navigationbar, mit welcher man die einzelnen Kapitel/Themen betrachten kann.
+
+![Artefakt_31012025.gif](Artefakt_31012025.gif)
 
 ## Grobplanung
 
