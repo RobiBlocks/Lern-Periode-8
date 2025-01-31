@@ -11,7 +11,7 @@ include("header.html");
 </head>
 
 <body>
-    <form action="forms.php" method="post">
+    <form action="<?php $_SERVER["PHP_SELF"]?>" method="post">
         <input type="radio" name="credit_card" value="Visa">
         Visa<br>
         <input type="radio" name="credit_card" value="Masterkarte">
@@ -21,7 +21,7 @@ include("header.html");
         <input type="submit" name="confirm" value="confirm">
     </form>
     <br>
-    <form action="forms.php" method="post">
+    <form action="<?php $_SERVER["PHP_SELF"]?>" method="post">
         <input type="checkbox" name="feuer" value="Feuer">
         Feuer<br>
         <input type="checkbox" name="wasser" value="Wasser">
@@ -35,7 +35,7 @@ include("header.html");
         <input type="submit" name="submit" value="submit">
     </form>
     <br>
-    <form action="forms.php" method="post">
+    <form action="<?php $_SERVER["PHP_SELF"]?>" method="post">
         <input type="text" name="username" placeholder="Benutzername">
         <input type="text" name="age" placeholder="Alter">
         <input type="text" name="email" placeholder="EMail">

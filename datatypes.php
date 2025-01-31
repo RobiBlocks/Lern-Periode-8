@@ -1,5 +1,6 @@
 <?php
 include("header.html");
+session_start();
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -12,23 +13,12 @@ include("header.html");
 
 <body>
     <button>Schnitzel</button><br>
-    <form action="index.php" method="post">
-        <label>username:</label><br>
-        <input type="text" name="username"><br>
-        <label>password:</label><br>
-        <input type="password" name="password"><br>
-        <input type="submit" value="Log in">
-    </form>
 </body>
 
 </html>
 <?php
 // $_GET, $_POST
-echo "{$_POST["username"]} <br>";
-echo "{$_POST["password"]} <br>";
-
-// This is a php comment
-echo "<br> Hello php! <br>";
+echo "Hello {$_SESSION["username"]}. You've the password {$_SESSION["password"]} <br>";
 
 // string
 $firstName = "Ahsoka";
