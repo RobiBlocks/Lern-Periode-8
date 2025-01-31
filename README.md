@@ -33,8 +33,8 @@
 
 ## 31.1
 
-- [ ] Ich schaue Kapiel 22, 23 und 24: _SERVER, password hashing und Connect to MySQL database und implementiere sie in mein Projekt.
+- [x] Ich schaue Kapiel 22, 23 und 24: _SERVER, password hashing und Connect to MySQL database und implementiere sie in mein Projekt.
 - [ ] Ich schaue Kapitel 25, 26 und 27: PHPMyAdmin create a table, PHP insert into MySQL database, PHP query MySQL database und implementiere sie in mein Projekt.
 - [ ] Ich schaue Kapitel 28: PHP registration form project und implementiere sie in mein Projekt.
 
-✍️ Heute habe ich...
+✍️ Heute habe habe ich als erstes die SuperGlobalVariable $_SERVER angeschaut und gelernt wie man an die informationen einer bestimmten .php Seite gelangen kann. Anschliessend habe ich mir password hashing angeschaut. Nach einer kleinen Pause habe ich mit dem Thema DB mit .php verbinden begonnen. Etwa in der Hälfte dieses APs kam es beim Neustarten zu einem Fehler. Zuerst habe ich den PC neugestartet, danach ChatGPT gefragt und am Schluss im Internet nach Lösungen gesucht. Ich fand eine StackOverflow Seite mit dem selben Problem gefunden (https://stackoverflow.com/questions/18022809/how-can-i-solve-error-mysql-shutdown-unexpectedly). Da aber ich aber nur noch fünf Minuten übrig hatte, habe ich aufgehört mit der Arbeit. (100 Wörter)
