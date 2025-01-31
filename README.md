@@ -33,9 +33,8 @@
 
 ## 31.1
 
-- [ ] Ich schaue Kapiel 22 und 23: _SERVER und password hashing und implementiere sie in mein Projekt.
-- [ ] Ich schaue Kapitel 24 und 25: Connect to MySQL database, PHPMyAdmin create a table und implementiere sie in mein Projekt.
-- [ ] Ich schaue Kapitel 26 und 27: PHP insert into MySQL database, PHP query MySQL database und implementiere sie in mein Projekt.
+- [ ] Ich schaue Kapiel 22, 23 und 24: _SERVER, password hashing und Connect to MySQL database und implementiere sie in mein Projekt.
+- [ ] Ich schaue Kapitel 25, 26 und 27: PHPMyAdmin create a table, PHP insert into MySQL database, PHP query MySQL database und implementiere sie in mein Projekt.
 - [ ] Ich schaue Kapitel 28: PHP registration form project und implementiere sie in mein Projekt.
 
 ✍️ Heute habe ich...
